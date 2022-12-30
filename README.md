@@ -7,11 +7,11 @@ Frontend Developer 🇵🇹 🇸🇪 🇬🇧
 Been working as a developer since 2020. Previous I worked with business development, marketing and strategy internationally.
 
 * 🌍  I live in Borås, Sweden
-* ✉️  You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
-* 💻 I work with JS/TS and Vue / Nuxt
+* ✉️   You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
+* 💻  I work with JS/TS and Vue / Nuxt
 * 🧠  I'm learning Strapi, Next
 * 🤝  I'm open to collaborating on Open source
-* 🏠 Lived in Belgium, Sweden and Portugal.
+* 🏠  Lived in Belgium, Sweden and Portugal.
 
 
 ### Skills
