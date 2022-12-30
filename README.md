@@ -6,11 +6,12 @@ Frontend Developer
 
 Been working as a developer since 2020. Previous I worked with business development, marketing and strategy internationally.
 
-* 🌍  I'm based in Borås, Sweden
+* 🌍  I live in Borås, Sweden
 * ✉️  You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
 * 🧠  I'm learning Strapi, Next
 * 🤝  I'm open to collaborating on Open source
-* ⚡️ Fun fact: I lived in 3 countries by the age of 7
+* 🏠 Lived in Belgium, Sweden and Portugal.
+
 
 ### Skills
 
