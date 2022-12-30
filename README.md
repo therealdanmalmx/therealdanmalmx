@@ -32,4 +32,4 @@ Been working as a developer since 2020. Previous I worked with business developm
 
 ### Socials
 
-href="https://www.linkedin.com/in/daniel-malmgren-de-oliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/daniel-malmgren-de-oliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
