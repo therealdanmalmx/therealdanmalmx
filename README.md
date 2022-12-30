@@ -10,7 +10,6 @@ Been working as a developer since 2020. Previous I worked with business developm
 * ✉️   You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
 * 💻  I work with JS/TS and Vue / Nuxt
 * 🧠  I'm learning Strapi, Next
-* 🤝  I'm open to collaborating on Open source
 * 🏠  Lived in Belgium, Sweden and Portugal.
 
 
