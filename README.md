@@ -8,7 +8,7 @@ Been working as a developer since 2020. Previous I worked with business developm
 
 * 🌍  I live in Borås, Sweden
 * ✉️   You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
-* 💻  I work with javascript / typescript and various libraries/frameworks (primarily Vue / Nuxt, but also react and Svetle)
+* 💻  I work with javascript / typescript and various libraries/frameworks (primarily Vue / Nuxt, but also react/next and Svetle)
 * 🧠  I'm learning Strapi, Next and Node
 * 🏠  Lived in Belgium, Sweden and Portugal
 
