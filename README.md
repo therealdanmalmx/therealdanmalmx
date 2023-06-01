@@ -31,9 +31,8 @@ Been working as a developer since 2020. Previous I worked with business developm
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealdanmalmx&layout=compact)](https://github.com/therealdanmalmx)
 
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/daniel-malmgren-de-oliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealdanmalmx&layout=compact)](https://github.com/therealdanmalmx)
