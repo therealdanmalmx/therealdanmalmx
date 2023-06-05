@@ -32,7 +32,7 @@ Been working as a developer since 2020. Previous I worked with business developm
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealdanmalmx&layout=compact)](https://github.com/therealdanmalmx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealdanmalmx&layout=compact)](https://github.com/therealdanmalmx/github-readme-stats)
 
 ### Socials
 
