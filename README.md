@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend (becoming fullstack) Developer 🇵🇹 🇸🇪 🇬🇧
 ------------------
 
-Been working as a developer since 2020. Previous I worked with business development, marketing and strategy internationally.
+Been working as a developer since 2020. Previous I worked with business development, marketing and strategy, internationally.
 
 * 🌍  I live in Borås, Sweden
 * ✉️   You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
