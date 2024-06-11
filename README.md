@@ -9,7 +9,7 @@ Been working as a developer since 2020. Previous I worked with business developm
 * 🌍  I live in Borås, Sweden
 * ✉️   You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
 * 💻  I work with javascript / typescript and various libraries/frameworks (primarily Vue / Nuxt, but also react / Next and Svetle) as well as Node and .NET Core.
-* 💻  I have experience with the following CMS': Strapi, Umbraco and Amplience
+* 💻  I have experience with the following CMS': Prismic, Strapi, Umbraco and Amplience
 * 🧠  Currently learning Prismic, Prisma, Node and .Net Core (Web API)
 * 🏠  Lived in Belgium, Sweden and Portugal
 
