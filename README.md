@@ -7,7 +7,6 @@ Fullstack (focus on frontend) Developer
 Been working as a developer since 2020. Previous I worked with business development, marketing and strategy, internationally.
 
 * 🌍  I live in Borås, Sweden
-* ✉️   You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
 * 💻  I work with javascript / typescript and various libraries/frameworks (Vue / Nuxt, react / Next and have dabbled with Svetle) as well as Node / Express.
 * 💻  I have experience with the following CMS': Prismic, Strapi, Umbraco and Amplience
 * 🧠  Currently learning  Node / Express,  C# / .NET, SQL/NoSQL, Entity Framework and Prisma
