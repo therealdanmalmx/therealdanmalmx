@@ -7,7 +7,7 @@ On my way to fullstack (focused on C#/.NET) developer
 Been working as a developer since 2020. Previous I worked with business development, marketing and strategy, internationally.
 
 * 🌍  I live in Borås, Sweden.
-* 💻  I work with javascript / typescript and various libraries/frameworks (Vue / Nuxt, react / Next and a little angular) as well as Node / Express.
+* 💻  Over 5 years of experience with javascript / typescript and various libraries/frameworks (Vue / Nuxt, react / Next and a little angular).
 * * 🧠  Currently studying systems engineering with a focus on C# and .NET.
 * 💻  I have experience with the following CMS': Prismic, Strapi, Umbraco and Amplience.
 * 🧠  Currently learning  Node / Express.
