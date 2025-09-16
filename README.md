@@ -51,8 +51,4 @@ Been working as a developer since 2020. Previous I worked with business developm
 ### Support Me 
 #### (feel like buying a a student a cup of coffee?)
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; list-style:none;list-style-type: none;"><a href="https://www.buymeacoffee.com/danmalmx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<div style="display: inline-block; list-style:none;list-style-type: none;"><a href="https://www.buymeacoffee.com/danmalmx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></div>
