@@ -42,11 +42,13 @@ Been working as a developer since 2020. Previous I worked with business developm
 
 ### Badges
 
+### Badges
+
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/therealdanmalmx"><img src="https://github-readme-stats.vercel.app/api?username=therealdanmalmx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="therealdanmalmx's GitHub stats" /></a>
+<a href="http://www.github.com/therealdanmalmx"><img src="https://github-readme-stats.vercel.app/api?username=therealdanmalmx&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=713f12&hide_border=true&show_icons=true" alt="therealdanmalmx's GitHub stats" /></a>
 
-<a href="https://github.com/therealdanmalmx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdanmalmx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/therealdanmalmx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdanmalmx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me 
 #### (feel like buying a student a cup of coffee?)
