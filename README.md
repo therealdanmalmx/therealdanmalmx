@@ -8,7 +8,7 @@ Been working as a developer since 2020. Previous I worked with business developm
 
 * 🌍  I live in Borås, Sweden.
 * 🧠  Currently studying systems engineering with a focus on C# and .NET.
-* 💻  Over 5 years of professional experience with javascript / typescript and various libraries/frameworks (Vue / Nuxt, react / Next and a little angular).
+* 💻  Over 5 years of professional frontend experience with javascript / typescript and various libraries/frameworks (Vue / Nuxt, react / Next and a little angular).
 * 💻  I have experience with the following CMS': Strapi, Umbraco and Amplience.
 * 🧠  Learning  Node / Express.
 * 🏠  Lived in Belgium, Sweden and Portugal.
