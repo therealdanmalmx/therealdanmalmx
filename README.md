@@ -7,15 +7,10 @@ Fullstack (C#/.NET, JavaScript/Typerscript, frameworks) developer
 Been working as a developer since 2020. Previous I worked with business development, marketing and strategy, internationally.
 
 🌍 I live in Borås, Sweden.
-
 🧠 Currently studying systems engineering with a focus on C# and .NET.
-
 💻 Over 5 years of professional frontend experience with javascript / typescript and various libraries/frameworks (Vue / Nuxt, react / Next and a little angular).
-
 💻 I have experience with the following CMS': Strapi, Umbraco and Amplience.
-
 🧠 Learning Node / Express.
-
 🏠 Lived in Belgium, Sweden and Portugal.
 
 * 🌍  I'm based in Borås, Sweden
@@ -28,14 +23,12 @@ Been working as a developer since 2020. Previous I worked with business developm
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/therealdanmalmx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/daniel-malmgren-de-oliveira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/danmalmx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
-
-<a href="https://github.com/therealdanmalmx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdanmalmx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+#### (feel like buying a student a cup of coffee?)
 
+<ul style="list-style-type: none; margin: 0;">
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/danmalmx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
