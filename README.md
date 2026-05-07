@@ -27,6 +27,6 @@ Been working as a developer since 2020. Previous I worked with business developm
 #### (feel like buying a student a cup of coffee?)
 
 <ul style="list-style-type: none; margin: 0;">
-<li style="display: inline-block; margin-right: 0.25rem; text-decortation: none"><a href="https://www.buymeacoffee.com/danmalmx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem; text-decortation-style: none"><a href="https://www.buymeacoffee.com/danmalmx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
