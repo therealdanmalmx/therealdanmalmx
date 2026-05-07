@@ -16,7 +16,7 @@ Been working as a developer since 2020. Previous I worked with business developm
 * 🌍  I'm based in Borås, Sweden
 * ✉️  You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
 
-![Skills](https://skillicons.dev/icons?i=cs,js,ts,react,nextjs,vue,nuxtjs,html,css,sass,tailwind,git,vscode,vite,nodejs,express,graphql,mongodb,postgres,figma,apple,dotnet,aws,docker)
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,vue,nuxtjs,html,css,sass,tailwind,git,vscode,vite,nodejs,express,graphql,mongodb,postgres,figma,aws,docker)
 
 ### Socials
 
