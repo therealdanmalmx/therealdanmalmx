@@ -13,8 +13,8 @@ Been working as a developer since 2020. Previous I worked with business developm
 🧠 Learning Node / Express. <br>
 🏠 Lived in Belgium, Sweden and Portugal. <br>
 
-* 🌍  I'm based in Borås, Sweden
-* ✉️  You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
+🌍  I'm based in Borås, Sweden
+✉️  You can contact me at [danmalmx@gmail.com](mailto:danmalmx@gmail.com)
 
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,vue,nuxtjs,nodejs,express,html,css,sass,tailwind,git,vscode,vite,graphql,mongodb,postgres,figma,aws,azure,docker)
 
