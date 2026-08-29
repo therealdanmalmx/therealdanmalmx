@@ -10,7 +10,7 @@ Been working as a developer since 2020. Previous I worked with business developm
 💻 Over 5 years of professional frontend experience with javascript / typescript. <br>
 💻 Frameworks / libraries: Angular, Vue, Next, Nuxt, React. <br>
 💻 I have experience with the following CMS': Strapi, Umbraco and Amplience. <br>
-🧠 Additional experience with Node / Express and Hono. <br>
+💻 Additional experience with Node / Express and Hono. <br>
 🏠 Lived in Belgium, Sweden and Portugal. <br>
 
 🌍  I'm based in Borås, Sweden <br>
