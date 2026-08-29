@@ -7,9 +7,9 @@ Fullstack (C#/.NET, JavaScript/TyperScript, frameworks) developer
 Been working as a developer since 2020. Previous I worked with business development, marketing and strategy, internationally.
 
 🧠 Currently studying systems engineering with a focus on C# and .NET. <br>
-💻 Over 5 years of professional frontend experience with javascript / typescript and various libraries/frameworks (Vue / Nuxt, react / Next and a little angular). <br>
+💻 Over 5 years of professional frontend experience with javascript / typescript and various libraries/frameworks (Vue / Nuxt, react / Next and a Angular). <br>
 💻 I have experience with the following CMS': Strapi, Umbraco and Amplience. <br>
-🧠 Learning Node / Express. <br>
+🧠 Additional experience with Node / Express nad Hono. <br>
 🏠 Lived in Belgium, Sweden and Portugal. <br>
 
 🌍  I'm based in Borås, Sweden <br>
